@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- mahesh -- <twitter>
+    Maheswar Boggarapu
+    mahesh.b123@gmail.com
+    Project Manager
 
 # THANKS
 
