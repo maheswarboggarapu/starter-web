@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+And a lot of lectures are still coming.
 
 ## Purpose
 Adding GIT Rebase Lectures in GIT advance part. We have done so much of work together.
