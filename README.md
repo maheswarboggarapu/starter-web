@@ -9,3 +9,4 @@ Sample website with plenty of files for demos
 
 ## Contribution 
 Fork the Repor and raise pull request for review
+Add new Lectures of Stash.
